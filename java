@@ -5,7 +5,7 @@ public class GaussianWhiteNoise {
         int numSamples = 1000;
         double[] whiteNoise = generateGaussianWhiteNoise(numSamples);
 
-        // Print or process the generated Gaussian white noise.2090
+        // Print or process the generated Gaussian white noise.209002
         for (int i = 0; i < numSamples; i++) {
             System.out.println(whiteNoise[i]);
         }
