@@ -1,3 +1,4 @@
+// 2090020000000000000000
 import java.util.Random;
 
 public class GaussianWhiteNoise {
@@ -5,7 +6,7 @@ public class GaussianWhiteNoise {
         int numSamples = 1000;
         double[] whiteNoise = generateGaussianWhiteNoise(numSamples);
 
-        // Print or process the generated Gaussian white noise.2090020000000000000000
+        // Print or process the generated Gaussian white noise.
         for (int i = 0; i < numSamples; i++) {
             System.out.println(whiteNoise[i]);
         }
