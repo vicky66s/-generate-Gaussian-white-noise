@@ -1,4 +1,4 @@
-// 2090020000000000000000
+// 0000000000
 import java.util.Random;
 
 public class GaussianWhiteNoise {
